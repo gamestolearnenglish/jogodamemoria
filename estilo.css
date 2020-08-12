@@ -1,0 +1,84 @@
+body{
+    background-image: url('teste2.png');
+    background-size: cover;
+}
+
+.header_ajust{
+font-family: 'Handlee';
+text-align: center;
+font-size: xx-large;
+color: darkblue;
+/* border-radius: 25px; */
+}
+
+.bloco_geral{
+    width: 1300px;
+    height: 130px;
+    background-color: whitesmoke ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    /* border-radius: 25px; */
+}
+
+
+.instrucoes{
+    text-align: center;
+    color: darkblue;
+    font-size: x-large;
+    /* border-radius: 25px; */
+}
+
+.cabecalho{
+    background-color: darkblue;
+    color: beige;
+    font-size: x-large;
+    /* border-radius: 10px; */
+}
+.footer-ajusts p{
+    text-align: center;
+
+}
+
+.botao0{
+    width: 130px;
+    height: 200px;
+    border: 2px solid red;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: x-large;
+    border-radius: 10px;
+
+}
+
+.botoes{    
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 900px;
+    background-color: whitesmoke;
+    text-align: center;
+    /* border-radius: 25px; */
+}
+
+.botao{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.active {
+    width: 1300px;
+    height: 200px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: whitesmoke;
+  }
+  
+.h1_inner{
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+}
